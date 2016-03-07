@@ -2,7 +2,8 @@
 -personal website yo
 
 #content
-1. 'coustic tunes
+1. about
+2. 'coustic tunes
 2. design artifacts
 3. low-poly art
 5. cooking - instagram
