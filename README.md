@@ -1,10 +1,12 @@
 # karl.me
-personal website yo
+-personal website yo
 
-rolfing
-'coustic tunes
-low-poly art
-running
-cooking
-wearebananas
-bbp
+#content
+1. 'coustic tunes
+2. design artifacts
+3. low-poly art
+5. cooking - instagram
+6. projects
+7. wearebananas
+8. bbp
+9. rolfing
